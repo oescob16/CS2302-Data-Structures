@@ -142,5 +142,6 @@ if __name__ == "__main__":
     
     printItemsInNode(T,3)   # 1 2 3 4 5
     printItemsInNode(T,32)  #
+    print()
     printItemsInNode(T2,43) # 7 12 32 43 58
     printItemsInNode(T2,20) #
